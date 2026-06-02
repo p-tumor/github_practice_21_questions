@@ -25,7 +25,7 @@ Write your yes/no question on each line, then check the host's answer.
  8. A: [x] Yes  [ ] No   Q: can it be found in a home?
  9. A: [ ] Yes  [x] No   Q: can it be found in a kitchen?
 10. A: [ ] Yes  [x] No   Q: can it be found in a bathroom?
-11. A: [ ] Yes  [ ] No   Q: 
+11. A: [ ] Yes  [ ] No   Q: can it be found in a bedroom?
 12. A: [ ] Yes  [ ] No   Q: 
 13. A: [ ] Yes  [ ] No   Q: 
 14. A: [ ] Yes  [ ] No   Q: 
