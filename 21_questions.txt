@@ -43,6 +43,6 @@ Write your yes/no question on each line, then check the host's answer.
 ------------------------------------------
 My guess is: ______________________________________
 
-RESULT:  [ ] Correct!   [ ] Incorrect
+RESULT:  [x] Correct!   [ ] Incorrect
 
-THE SECRET WAS (host reveals): ____________________________
+THE SECRET WAS (host reveals): _____el cinco_______________________
