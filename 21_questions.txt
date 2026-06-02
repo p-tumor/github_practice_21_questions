@@ -21,7 +21,7 @@ Write your yes/no question on each line, then check the host's answer.
  4. A: [ ] Yes  [x] No   Q: is it a toy??
  5. A: [ ] Yes  [x] No   Q: is it a food?
  6. A: [ ] Yes  [x] No   Q: is it at all consumable?
- 7. A: [ ] Yes  [ ] No   Q: 
+ 7. A: [ ] Yes  [ ] No   Q: is it a tool?
  8. A: [ ] Yes  [ ] No   Q: 
  9. A: [ ] Yes  [ ] No   Q: 
 10. A: [ ] Yes  [ ] No   Q: 
