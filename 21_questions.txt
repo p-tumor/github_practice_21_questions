@@ -2,12 +2,12 @@
         21 QUESTIONS - GAME SHEET
 ==========================================
 
-PLAYER (the one asking questions): garvin____________________
-HOST   (the one with the secret):  ____________________
-DATE:                              ____________________
+PLAYER (the one asking questions): ________Garvin____________
+HOST   (the one with the secret):  __________Justice__________
+DATE:                              _________06/02/26___________
 
 
-SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [ ] Animal
+SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [X] Thing  [ ] Animal
 
 
 ------------------------------------------
