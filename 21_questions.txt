@@ -16,7 +16,7 @@ SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [X] Thing  [ ] Animal
 Write your yes/no question on each line, then check the host's answer.
 
  1. A: [ ] Yes  [X] No   Q: is it red?
- 2. A: [ ] Yes  [ ] No   Q: 
+ 2. A: [ ] Yes  [ ] No   Q: is it a car?
  3. A: [ ] Yes  [ ] No   Q: 
  4. A: [ ] Yes  [ ] No   Q: 
  5. A: [ ] Yes  [ ] No   Q: 
